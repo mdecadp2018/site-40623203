@@ -2003,7 +2003,7 @@ def syntaxhighlight():
 <script src="https://scrum-3.github.io/web/brython/brython_stdlib.js"></script>
 <style>
 img {
-    border: 3px solid blue;
+    border: 2px solid blue;
 }
 </style>
 '''
