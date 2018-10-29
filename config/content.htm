@@ -257,7 +257,27 @@
 <h3>心得6</h3>
 <p>這一週我在更新自己網站的內容時，因為某些原因導致  <a>https://localhost:8443</a> 一直出現錯誤，完全不知道該如何把它弄回原來的模樣，直到看了老師拍的影片後，將 flaskapp.py 更新成最新版的，才回復到原來的樣子。在看到動態網站一直顯示錯誤時，我感到很緊張，生怕我剛剛做的東西都消失殆盡，趕快到老師的 YouTube 翻看影片和問同學，經過了千辛萬苦，終於用好了，可以繼續更新網站，維持每週的進度。</p>
 <h2>Week7</h2>
-<h3>教學影片7</h3>
+<p>上課前在登陸 Github 時，發現故障，無法使用，找出方法解決並探討問題</p>
+<p><span>發生原因：</span></p>
+<p><a href="https://en.wikipedia.org/wiki/Network_partition" rel="nofollow">network partition</a><span> </span>and subsequent database failure</p>
+<p>A network partition refers to network decomposition into relatively independent subnets for their separate optimization as well as network split due to the failure of network devices.</p>
+<p><span>網路裝置與資料庫故障，導致發生此一事件</span></p>
+<p><span><a href="https://status.github.com/messages">原因一</a>、<a href="https://blog.github.com/2018-10-21-october21-incident-report/"></a></span><span></span><span><a href="https://blog.github.com/2018-10-21-october21-incident-report/">原因二</a>、<a href="https://thenextweb.com/dd/2018/10/22/github-is-down-because-of-data-storage-issues/" rel="nofollow"></a></span><span><a href="https://thenextweb.com/dd/2018/10/22/github-is-down-because-of-data-storage-issues/" rel="nofollow">原因三</a>、<a href="https://www.onmsft.com/news/github-suffers-hours-long-outage-coming-back-online-now" rel="nofollow"></a></span><span><a href="https://www.onmsft.com/news/github-suffers-hours-long-outage-coming-back-online-now" rel="nofollow">原因四</a>、<a href="https://www.theinquirer.net/inquirer/news/3064898/github-down-major-outage" rel="nofollow"></a></span><span><a href="https://www.theinquirer.net/inquirer/news/3064898/github-down-major-outage" rel="nofollow">原因五</a></span></p>
+<p><span>影響範圍：</span></p>
+<p><span>This incident only impacted website metadata stored in our MySQL databases, such as issues and pull requests ( 僅影響存儲在我們的MySQL數據庫中的網站元數據，例如問題和拉取請求 )<br/></span></p>
+<p><span>Git repository data remains unaffected and has been available throughout the incident ( 存儲庫數據不受影響，並且在整個事件期間一直可用 )</span></p>
+<p><span>因應處理：</span></p>
+<p><span>各計算機程序，電腦輔助設計與協同產品設計倉儲資料除了近端與Github端存放外，還必須同步到：</span><a href="https://about.gitlab.com/pricing/" rel="nofollow">https://about.gitlab.com/pricing/</a>、<span><a href="https://bitbucket.org/product/pricing" rel="nofollow">https://bitbucket.org/product/pricing </a></span><span>以及自建區域網路上的</span><a href="https://fossil-scm.org/" rel="nofollow"><span>Fossli SCM</span></a><span>主機</span></p>
+<p><span>Github的頁面靜態資料可以分別以：</span><a href="https://about.gitlab.com/features/pages/" rel="nofollow"><span>https://about.gitlab.com/features/pages/ </span></a><br/><a href="https://marketplace.atlassian.com/apps/1212525/pages-for-bitbucket-server?hosting=server&amp;tab=overview" rel="nofollow"><span>的到位桶網頁</span></a><span>以及</span><a href="https://fossil-scm.org/xfer/doc/trunk/www/embeddeddoc.wiki" rel="nofollow"><span>化石SCM的文檔</span></a><span>技術達成</span></p>
+<p><span>Ubuntu 18.04 上的 Fossil SCM：</span></p>
+<p><span>虛擬或實體安裝的 </span><a href="https://www.ubuntu.com/" rel="nofollow"><span>Ubuntu</span></a><span>，可以透過 </span><a href="https://fossil-scm.org/" rel="nofollow"><span>Fossil SCM</span></a> <span>與 </span><a href="https://www.stunnel.org/" rel="nofollow"><span>Stunnel</span></a> <span>的結合，建構能夠自行維的 </span><a href="https://fossil-scm.org/" rel="nofollow"><span>Fossil SCM</span></a> <span>伺服主機</span></p>
+<p><a href="http://mde.tw/2017springwcm/blog/2017spring-ubuntu-stunnel-fossil.html" rel="nofollow">Ubuntu 16.04 環境下啟動 Stunnel 與 Fossil SCM</a></p>
+<p><a href="http://mde.tw/2017springwcm/blog/2017spring-stunnel-fossil.html" rel="nofollow">Windows 環境下啟動 Stunnel 與 Fossil SCM</a></p>
+<p>安裝<span> Fossil SCM</span></p>
+<p>啟動<span> Fossil SCM</span></p>
+<p>使用<span> Fossil SCM 伺服網頁</span></p>
+<p><span>Virtualbox Appliance：</span></p>
+<p><span>下載 <a href="https://drive.google.com/file/d/1_lnY385mNZ8noDOcqj0hSZHd4zvG7FBQ/view?usp=sharing" rel="nofollow">Ubuntu 18.04 with Stunnel 4 與 Fossil SCM 2.5 安裝轉出壓縮檔</a></span></p><h3>教學影片7</h3>
 <p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/KiXEszwLXO0" width="560"></iframe></p>
 <p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/WEsFrcuffOA" width="560"></iframe></p>
 <p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/JA75HIMhIgk" width="560"></iframe></p>
