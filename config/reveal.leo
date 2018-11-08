@@ -156,7 +156,7 @@ vertical: body pane on the botton</t>
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [KMOLab](https://github.com/mdecadp2018/site-40623203)
+Created by [40623203](https://github.com/mdecadp2018/site-40623203)
 &lt;/small&gt;
 
 [2018 Fall 40623203分組網誌](https://mdecadp2018.github.io/site-40623203/blog/index.html)
