@@ -24,10 +24,37 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20181109011115.1" a="E"><vh>Week1</vh>
+<v t="leo.20181109011115.2"><vh>Week1 內容</vh></v>
+</v>
+<v t="leo.20181109012136.1"><vh>Week2</vh>
+<v t="leo.20181109012136.2"><vh>Week2 內容</vh></v>
+</v>
+<v t="leo.20181109012904.1"><vh>Week3</vh>
+<v t="leo.20181109012904.2"><vh>Week3 內容</vh></v>
+</v>
+<v t="leo.20181109013012.1"><vh>Week4</vh>
+<v t="leo.20181109013012.2"><vh>Week4 內容</vh></v>
+</v>
+<v t="leo.20181109013332.1" a="E"><vh>Week5</vh>
+<v t="leo.20181109013332.2"><vh>Week5 內容</vh></v>
+</v>
+<v t="leo.20181109013545.1" a="E"><vh>Week6</vh>
+<v t="leo.20181109013545.2"><vh>Week6 內容</vh></v>
+</v>
+<v t="leo.20181109013838.1" a="E"><vh>Week7</vh>
+<v t="leo.20181109013838.2"><vh>Week7 內容</vh></v>
+</v>
+<v t="leo.20181109013841.1"><vh>Week8</vh>
+<v t="leo.20181109013841.2"><vh>Week8 內容</vh></v>
+</v>
+<v t="leo.20181109013844.1" a="E"><vh>Week9</vh>
+<v t="leo.20181109013844.2"><vh>Week9 內容</vh></v>
+</v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -124,7 +151,7 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
+<t tx="leo.20180827201621.10">## 2018Fall 40623203網際簡報
 
 ### 虎科大機械設計工程系
 
@@ -320,11 +347,38 @@ make.start()
 <t tx="leo.20180827201621.9">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
+</t>
+<t tx="leo.20181109011115.1">@others
+</t>
+<t tx="leo.20181109011115.2"></t>
+<t tx="leo.20181109012136.1">@others
+</t>
+<t tx="leo.20181109012136.2"></t>
+<t tx="leo.20181109012904.1">@others
+</t>
+<t tx="leo.20181109012904.2"></t>
+<t tx="leo.20181109013012.1">@others
+</t>
+<t tx="leo.20181109013012.2"></t>
+<t tx="leo.20181109013332.1">@others
+</t>
+<t tx="leo.20181109013332.2"></t>
+<t tx="leo.20181109013545.1">@others
+</t>
+<t tx="leo.20181109013545.2"></t>
+<t tx="leo.20181109013838.1">@others
+</t>
+<t tx="leo.20181109013838.2"></t>
+<t tx="leo.20181109013841.1">@others
+</t>
+<t tx="leo.20181109013841.2"></t>
+<t tx="leo.20181109013844.1">@others
     &lt;/script&gt;
 &lt;/section&gt;
 
 
 						
 </t>
+<t tx="leo.20181109013844.2"></t>
 </tnodes>
 </leo_file>
