@@ -159,7 +159,7 @@ vertical: body pane on the botton</t>
 Created by [KMOLab](http://lab.kmol.info/)
 &lt;/small&gt;
 
-[2018 Fall 分組網誌](./../blog/index.html)
+[2018 Fall 40623203分組網誌](https://mdecadp2018.github.io/site-40623203/blog/index.html)
 
 
 </t>
