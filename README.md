@@ -7,6 +7,14 @@
 
 投影片: https://mdecadp2018.github.io/site-40623203/reveal/index.html#/
 
+2018 Fall 計算機程式與電腦輔助設計實習課程期末分組倉儲: https://github.com/mdecadp2018/finalproject-bg3
+
+期末分組網站: https://mdecadp2018.github.io/finalproject-bg3
+
+期末分組網誌 ( blog ): https://mdecadp2018.github.io/finalproject-bg3/blog
+
+期末分組投影片: https://mdecadp2018.github.io/finalproject-bg3/reveal
+
 分組示範倉儲: https://github.com/scrum-1/scrum-1.github.io
 
 設定步驟: https://github.com/scrum-1/scrum-1.github.io/wiki
