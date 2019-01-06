@@ -21,7 +21,7 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20181109011115.1"><vh>Week1</vh>
@@ -78,7 +78,7 @@
 <v t="leo.20190107024328.1"><vh>Week18</vh>
 <v t="leo.20190107024328.2"><vh>Week18 內容</vh></v>
 </v>
-<v t="leo.20190107033130.1" a="E"><vh>總結</vh>
+<v t="leo.20190107033130.1"><vh>總結</vh>
 <v t="leo.20190107033130.2"><vh>內容</vh></v>
 </v>
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
@@ -189,7 +189,7 @@ vertical: body pane on the botton</t>
 Created by [40623203](https://github.com/mdecadp2018/site-40623203)
 &lt;/small&gt;
 
-[2018 Fall 40623203分組網誌](https://mdecadp2018.github.io/site-40623203/blog/index.html)
+[2018 Fall 40623203個人網誌](https://mdecadp2018.github.io/site-40623203/blog/index.html)
 
 
 </t>
