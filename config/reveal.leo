@@ -21,47 +21,77 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181109011115.1" a="E"><vh>Week1</vh>
+<v t="leo.20181109011115.1"><vh>Week1</vh>
 <v t="leo.20181109011115.2"><vh>Week1 內容</vh></v>
 </v>
-<v t="leo.20181109012136.1" a="E"><vh>Week2</vh>
+<v t="leo.20181109012136.1"><vh>Week2</vh>
 <v t="leo.20181109012136.2"><vh>Week2 內容</vh></v>
 </v>
-<v t="leo.20181109012904.1" a="E"><vh>Week3</vh>
+<v t="leo.20181109012904.1"><vh>Week3</vh>
 <v t="leo.20181109012904.2"><vh>Week3 內容</vh></v>
 </v>
-<v t="leo.20181109013012.1" a="E"><vh>Week4</vh>
+<v t="leo.20181109013012.1"><vh>Week4</vh>
 <v t="leo.20181109013012.2"><vh>Week4 內容</vh></v>
 </v>
-<v t="leo.20181109013332.1" a="E"><vh>Week5</vh>
+<v t="leo.20181109013332.1"><vh>Week5</vh>
 <v t="leo.20181109013332.2"><vh>Week5 內容</vh></v>
 </v>
-<v t="leo.20181109013545.1" a="E"><vh>Week6</vh>
+<v t="leo.20181109013545.1"><vh>Week6</vh>
 <v t="leo.20181109013545.2"><vh>Week6 內容</vh></v>
 </v>
-<v t="leo.20181109013838.1" a="E"><vh>Week7</vh>
+<v t="leo.20181109013838.1"><vh>Week7</vh>
 <v t="leo.20181109013838.2"><vh>Week7 內容</vh></v>
 </v>
-<v t="leo.20181109013841.1" a="E"><vh>Week8</vh>
+<v t="leo.20181109013841.1"><vh>Week8</vh>
 <v t="leo.20181109013841.2"><vh>Week8 內容</vh></v>
 </v>
-<v t="leo.20181109013844.1" a="E"><vh>Week9</vh>
+<v t="leo.20181109013844.1"><vh>Week9</vh>
 <v t="leo.20181109013844.2"><vh>Week9 內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20190107024330.1"><vh>Week10</vh>
+<v t="leo.20190107024330.2"><vh>Week10 內容</vh></v>
+</v>
+<v t="leo.20190107024351.1"><vh>Week11</vh>
+<v t="leo.20190107024351.2"><vh>Week11 內容</vh></v>
+</v>
+<v t="leo.20190107024358.1"><vh>Week12</vh>
+<v t="leo.20190107024358.2"><vh>Week12 內容</vh></v>
+</v>
+<v t="leo.20190107024342.1"><vh>Week13</vh>
+<v t="leo.20190107024342.2"><vh>Week13 內容</vh></v>
+</v>
+<v t="leo.20190107024353.1"><vh>Week14</vh>
+<v t="leo.20190107024353.2"><vh>Week14 內容</vh></v>
+</v>
+<v t="leo.20190107024349.1"><vh>Week15</vh>
+<v t="leo.20190107024349.2"><vh>Week15 內容</vh></v>
+</v>
+<v t="leo.20190107024323.1"><vh>Week16</vh>
+<v t="leo.20190107024323.2"><vh>Week16 內容</vh></v>
+</v>
+<v t="leo.20190107024335.1"><vh>Week17</vh>
+<v t="leo.20190107024335.2"><vh>Week17 內容</vh></v>
+</v>
+<v t="leo.20190107024328.1"><vh>Week18</vh>
+<v t="leo.20190107024328.2"><vh>Week18 內容</vh></v>
+</v>
+<v t="leo.20190107033130.1" a="E"><vh>總結</vh>
+<v t="leo.20190107033130.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
-<v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.14"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20180827201621.16" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20180827201621.16"><vh>導入縮排程式碼</vh>
 <v t="leo.20180827201621.17"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
+<v t="leo.20180827201621.18"><vh>導入影片</vh>
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
@@ -362,15 +392,13 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181109011115.2">#Week1：大學就像餐廳，每個老師教的都是養分，要多方學習，加強吸收自己所需的營養，不斷的學習，並且學習如何做得更好吃
+<t tx="leo.20181109011115.2"># Week1
 
-* 在github帳號新增倉儲並將老師及自己的倉儲 clone 下來
+### 大學就像餐廳，每個老師教的都是養分，要多方學習，加強吸收自己所需的營養，不斷的學習，並且學習如何做得更好吃
 
-* 複製老師的資料，除了 .git 和 README.me  全部貼入自己的資料夾
+* 維護個人倉儲
 
-* 用 git status &amp;gt; git add . &amp;gt; git commit -m "initial add " &amp;gt;git push ，將檔案推上去
-
-* 開啟 python wsgi.py ，進入近端，更改標題名稱</t>
+</t>
 <t tx="leo.20181109012136.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -380,15 +408,19 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181109012136.2">#Week2：講解 ShareX 、Zoomit 和領取倉儲
+<t tx="leo.20181109012136.2"># Week2
 
-* ShareX：設定路徑及麥克風，認識截圖及錄影功能
+### 講解 ShareX 、Zoomit 和領取倉儲
+
+* ShareX：定路徑及麥克風，認識截圖及錄影功能
 
 * Zoomit：用 Ctrl + 1 放大並結合 ShareX 擷取圖片
 
-* 領取倉儲：跟老師領取倉儲後，將內定 branch 設為 gh-pages 就可以開始進行維護網誌
+* 領取倉儲：領取倉儲並將內定 branch 設為 gh-pages 就可以開始進行維護網誌
 
-* 若要在圖片加上有顏色的框，在 LEO 開啟 cmsimfly.leo &gt; syntaxhighlight 調整框線粗細及顏色</t>
+* 若要在圖片加上有顏色的框，在 LEO 開啟 cmsimfly.leo &gt; syntaxhighlight 調整框線粗細及顏色
+
+</t>
 <t tx="leo.20181109012904.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -398,7 +430,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181109012904.2"># 9月 24日中秋節連假放假囉 !!!</t>
+<t tx="leo.20181109012904.2"># 9月 24日中秋節連假放假囉 !!!
+
+</t>
 <t tx="leo.20181109013012.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -408,7 +442,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181109013012.2">#Week4：Onshape、期中倉儲、網站、網誌、投影片管理
+<t tx="leo.20181109013012.2"># Week4
+
+### Onshape、期中倉儲、網站、網誌、投影片管理
 
 * Onshape：繪製及練習簡單圖形
 
@@ -416,7 +452,9 @@ make.start()
 
 * 網誌 ( Blog )：用 Leo 對網誌進行修改
 
-* 投影片：用 Leo 對投影片進行修改</t>
+* 投影片：用 Leo 對投影片進行修改
+
+</t>
 <t tx="leo.20181109013332.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -426,15 +464,17 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181109013332.2">#Week5：
+<t tx="leo.20181109013332.2"># Week5
 
-1. Pyslvs 電腦輔助機構模擬與合成套件介紹
+* Pyslvs 電腦輔助機構模擬與合成套件介紹
 
-2. Pelican blog
+* Pelican blog
 
-3. Onshape
+* Onshape
 
-4. 分組有八個題目可以選擇：3D 列印、行走機構、鋼球運動系統、機械手臂、虛實手足球、機械計時器、摺疊自行車及方程式賽車</t>
+* 分組有八個題目可以選擇：3D 列印、行走機構、鋼球運動系統、機械手臂、虛實手足球、機械計時器、摺疊自行車及方程式賽車
+
+</t>
 <t tx="leo.20181109013545.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -444,15 +484,19 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181109013545.2">#Week6：更新 flaskapp.py
+<t tx="leo.20181109013545.2"># Week6
 
-1. 將倉儲中的 flaskapp.py 更新至最新版本
+### 更新 flaskapp.py
 
-2. 搜尋並 git clone
+* 將倉儲中的 flaskapp.py 更新至最新版本
 
-3. 將 flaskapp.py 複製貼上，更新 flaskapp.py
+* 搜尋並 git clone
 
-4. 在 Leo 中，更新 cmsimfly.leo</t>
+* 將 flaskapp.py 複製貼上，更新 flaskapp.py
+
+* 在 Leo 中，更新 cmsimfly.leo
+
+</t>
 <t tx="leo.20181109013838.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -462,13 +506,17 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181109013838.2">#Week7：登陸 Github 時，發現故障
+<t tx="leo.20181109013838.2"># Week7
+
+### 登陸 Github 時，發現故障
 
 * 發生原因：網路裝置與資料庫故障，導致發生此一事件
 
 * 影響範圍：影響存儲在數據庫中的網站元數據，數據不受影響，並且在整個事件期間一直可用
 
-* 因應處理：各計算機程序，電腦輔助設計與協同產品設計倉儲資料除了近端與Github端存放外，還必須同步到：https://about.gitlab.com/pricing/、https://bitbucket.org/product/pricing 以及自建區域網路上的Fossli SCM主機</t>
+* 因應處理：倉儲資料除了近端與Github端存放外，還必須同步到 gitlab、bitbucket 以及自建區域網路上的 Fossli SCM 主機
+
+</t>
 <t tx="leo.20181109013841.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -478,9 +526,13 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181109013841.2">#Week8：Onshape
+<t tx="leo.20181109013841.2"># Week8
 
-Onshape 可以讓使用者直接使用瀏覽器、平板或手機進行電腦輔助機械設計繪圖，此一雲端工具在假設網路無所不在的環境中，新產品開發團隊成員可以利用雲般無所不在，且毫無限制的電腦輔助設計套件，協同完成各式零組件的設計與繪製。</t>
+### Onshape
+
+Onshape 可以讓使用者直接使用瀏覽器、平板或手機進行電腦輔助機械設計繪圖，此一雲端工具在假設網路無所不在的環境中，新產品開發團隊成員可以利用雲般無所不在，且毫無限制的電腦輔助設計套件，協同完成各式零組件的設計與繪製。
+
+</t>
 <t tx="leo.20181109013844.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -490,12 +542,153 @@ Onshape 可以讓使用者直接使用瀏覽器、平板或手機進行電腦輔
 
 						
 </t>
-<t tx="leo.20181109013844.2">#Week9：進行專案分組及打自評成績
+<t tx="leo.20181109013844.2"># Week9
 
-* 期末分組專題重點：
+### 進行專案分組及打自評成績
+
+#### 期末分組專題重點：
 
 1. 各組選定一個多零件機電資整合專題題目
 
-2. 以協同寫作方式利用 CMSimfly、Reveal.js 與 Pelican Blog 完成專案規劃、內容管理、簡報及網誌內容各組以協同流程</t>
+2. 以協同寫作方式利用 CMSimfly、Reveal.js 與 Pelican Blog 完成專案規劃、內容管理、簡報及網誌內容各組以協同流程
+
+</t>
+<t tx="leo.20190107024323.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190107024323.2"># Week16
+
+### 學習使用 V-rep
+
+</t>
+<t tx="leo.20190107024328.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190107024328.2"># Week18
+
+### 錄製 3 分鐘學習影片
+
+### 打期末自評成績</t>
+<t tx="leo.20190107024330.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190107024330.2"># Week10
+
+### 更新 p37 
+</t>
+<t tx="leo.20190107024335.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190107024335.2"># Week17
+
+### 解決 PDF 的問題
+
+### 完成 PDF 及投影片
+
+</t>
+<t tx="leo.20190107024342.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190107024342.2"># Week13
+
+### 修改網站介面
+
+</t>
+<t tx="leo.20190107024349.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190107024349.2"># Week15
+
+### 換用 Kmolbook 製作 PDF</t>
+<t tx="leo.20190107024351.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190107024351.2"># Week11
+
+### 製作 Onshape 教學
+</t>
+<t tx="leo.20190107024353.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190107024353.2"># Week14
+
+### 利用 Pandoc 在 Leo 編輯期末報告
+
+### 將 Markdown 資料轉成 PDF
+
+### 用 for 迴圈讓名字跳行</t>
+<t tx="leo.20190107024358.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190107024358.2"># Week12
+
+### 在特定圖片加邊框
+</t>
+<t tx="leo.20190107033130.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190107033130.2"># 總結
+
+雖然我在這個組裡都是執行的那個人，但我並不全能，有很多時候需要組員們的意見，而隊友們都很給力，有問必答，就算大家都不會，也會一起努力探討，尋求解決辦法，更不會將事情都丟給同一個人，會自行分工及完成自己的那一部份，每個人都有不同的工作，誰都不是花瓶，六個人缺一不可，也非常感謝老師、學長及同學的幫助，使我們完成專題，也學到很多新知識。</t>
 </tnodes>
 </leo_file>
